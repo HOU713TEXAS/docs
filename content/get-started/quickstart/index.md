@@ -26,4 +26,4 @@ children:
 redirect_from:
   - /github/getting-started-with-github/quickstart
 ---
-
+ANDROID_SDK_ROOT
